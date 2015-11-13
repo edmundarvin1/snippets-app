@@ -5,3 +5,17 @@ DEBUG:root:Constructing put subparser
 INFO:root:Constructing parser
 DEBUG:root:Constructing put subparser
 DEBUG:root:Constructing get subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+ERROR:root:FIXME: Unimplemented - pN'redred', 'asdasd')
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+ERROR:root:FIXME: Unimplemented - pN'this_snippet', 'that_snippet')
